@@ -12,9 +12,6 @@
 
 ## 📫 Connect with me:
 
-<a href="https://github.com/aparna1208" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" />
-</a>
 <a href="www.linkedin.com/in/aparnaa1208" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
 </a>
