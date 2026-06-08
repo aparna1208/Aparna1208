@@ -6,7 +6,7 @@
 - 💬 Ask me about Python, Django, REST API, or web app deployment
 - 📫 Reach me at: aparna08120@gmail.com
 - 💬 Ask me about Django  🚀
-- 🌐 Portfolio: https://aparna1208.github.io/Portfolio_/
+- 🌐 Portfolio: https://aparna1208.github.io/Portfolio/#
 - ⚡ Fun fact: I love exploring new tech tools and building real-world projects!
 
 
